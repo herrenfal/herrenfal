@@ -1,4 +1,4 @@
-# Hello there, its Enfal ✨
+# Hello, this is Enfal ✨
 
 I'm a Computer Engineering student based in Istanbul, currently focusing on improving my English skills. I’m also working on improving my competitive programming skills, particularly in C++.
 
@@ -19,8 +19,6 @@ I'm a Computer Engineering student based in Istanbul, currently focusing on impr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
   <img width="12" />
