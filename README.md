@@ -2,7 +2,6 @@
 
 - 🧠 I am a willing Computer Engineering student based in Istanbul, currently focusing on improving my English skills.
 - 🌱 I have been learning to build beneficial projects by using HTML, CSS, Sass, and JavaScript.
-- 🌱 I have been carrying an eternal sense of curiosity for the world.
 
 ## Lover of
 <div align="left">
