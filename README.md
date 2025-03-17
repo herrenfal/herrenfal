@@ -1,7 +1,7 @@
 # Hello there its enfal! ✨
 
 - 🧠 I'm an eager Computer Engineering student based in Istanbul, currently focusing on improving my English skills.
-- 🌱 I have been learning to build beneficial projects by using JavaScript, CSS and Sass.
+- 🌱 I've been learning to build beneficial projects by using JavaScript, CSS, and Sass.
 
 ## Lover of
 <div align="left">
