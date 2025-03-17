@@ -1,6 +1,6 @@
-# Hello, I'm Enfal ✨
+# Hello there, its Enfal ✨
 
-- 🧠 I am a willing Computer Engineering student based in Istanbul, currently focusing on improving my English skills.
+- 🧠 I'm an passionate Computer Engineering student based in Istanbul, currently focusing on improving my English skills.
 - 🌱 I have been learning to build beneficial projects by using JavaScript, CSS and Sass.
 
 ## Lover of
