@@ -1,6 +1,6 @@
 # Hello there its enfal! ✨
 
-- 🌱 I've been learning to build beneficial projects by using JavaScript, CSS, and Sass.
+- 🌱 I've been learning to build beneficial projects using JavaScript, CSS, and Sass.
 
 ## Lover of
 <div align="left">
